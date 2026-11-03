@@ -1,0 +1,8 @@
+{
+  "name": "NIKHAAR — Luxury Skincare & Beauty India",
+  "description": "Premium Ayurvedic & Clinical Skincare e-commerce brand designed for India. Featuring Kumkumadi saffron serums, barrier ceramides, SPF protection, fast PIN code delivery, UPI, and COD.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
